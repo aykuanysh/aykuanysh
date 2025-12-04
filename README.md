@@ -43,9 +43,8 @@ Anonymous imageboard platform built with Go
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aykuanysh&show_icons=true&theme=transparent)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aykuanysh&layout=compact&theme=transparent)
-
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aykuanysh&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aykuanysh&layout=compact&theme=transparent)
 </div>
 
 ---
