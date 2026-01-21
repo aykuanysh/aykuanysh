@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ayan</h1>
-<h3 align="center">IT Engineer • Backend Developer • Data / DevOps Enthusiast</h3>
+<h3 align="center">IT Engineer • Backend Developer • Data Analyst/Engineer</h3>
 
 ---
 
