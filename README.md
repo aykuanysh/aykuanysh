@@ -16,7 +16,8 @@ I enjoy writing clean and maintainable code, optimizing databases, and automatin
 
 
 ### **Languages**
-- Go  
+- Go
+- PHP(Laravel)
 - Python  
 - Bash  
 - SQL  
